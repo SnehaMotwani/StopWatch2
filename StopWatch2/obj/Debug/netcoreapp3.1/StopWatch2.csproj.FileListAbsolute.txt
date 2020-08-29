@@ -1,0 +1,13 @@
+C:\Users\sneha\source\repos\StopWatch2\StopWatch2\bin\Debug\netcoreapp3.1\StopWatch2.exe
+C:\Users\sneha\source\repos\StopWatch2\StopWatch2\bin\Debug\netcoreapp3.1\StopWatch2.deps.json
+C:\Users\sneha\source\repos\StopWatch2\StopWatch2\bin\Debug\netcoreapp3.1\StopWatch2.runtimeconfig.json
+C:\Users\sneha\source\repos\StopWatch2\StopWatch2\bin\Debug\netcoreapp3.1\StopWatch2.runtimeconfig.dev.json
+C:\Users\sneha\source\repos\StopWatch2\StopWatch2\bin\Debug\netcoreapp3.1\StopWatch2.dll
+C:\Users\sneha\source\repos\StopWatch2\StopWatch2\bin\Debug\netcoreapp3.1\StopWatch2.pdb
+C:\Users\sneha\source\repos\StopWatch2\StopWatch2\obj\Debug\netcoreapp3.1\StopWatch2.csprojAssemblyReference.cache
+C:\Users\sneha\source\repos\StopWatch2\StopWatch2\obj\Debug\netcoreapp3.1\StopWatch2.AssemblyInfoInputs.cache
+C:\Users\sneha\source\repos\StopWatch2\StopWatch2\obj\Debug\netcoreapp3.1\StopWatch2.AssemblyInfo.cs
+C:\Users\sneha\source\repos\StopWatch2\StopWatch2\obj\Debug\netcoreapp3.1\StopWatch2.csproj.CoreCompileInputs.cache
+C:\Users\sneha\source\repos\StopWatch2\StopWatch2\obj\Debug\netcoreapp3.1\StopWatch2.dll
+C:\Users\sneha\source\repos\StopWatch2\StopWatch2\obj\Debug\netcoreapp3.1\StopWatch2.pdb
+C:\Users\sneha\source\repos\StopWatch2\StopWatch2\obj\Debug\netcoreapp3.1\StopWatch2.genruntimeconfig.cache
